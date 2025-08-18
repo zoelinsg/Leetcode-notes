@@ -1,3 +1,1 @@
-# LeetCode
-
-## NO. 02000-02999
+# LeetCode Problems 02000-02999

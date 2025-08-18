@@ -1,3 +1,1 @@
-# LeetCode
-
-## NO. 03000-03999
+# LeetCode Problems 03000–03999

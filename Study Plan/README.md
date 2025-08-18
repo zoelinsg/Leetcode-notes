@@ -1,3 +1,3 @@
-# LeetCode Study Plan
+# LeetCode Study Plans
 
-- [SQL 50]()
+- [SQL Top 50](https://github.com/zoelinsg/Leetcode-notes/tree/main/Study%20Plan/SQL%2050)
