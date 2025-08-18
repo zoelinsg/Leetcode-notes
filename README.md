@@ -1,2 +1,4 @@
-# Leetcode-notes
-Leetcode notes
+# LeetCode-Notes
+
+- [Problem Number]()
+- [Study Plan]()
